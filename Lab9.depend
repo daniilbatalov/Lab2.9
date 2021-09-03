@@ -1,0 +1,86 @@
+# depslib dependency file v1.0
+1615909090 source:g:\1 курс\языки программировани€\lab9\validate.cpp
+	<cstdio>
+	<iostream>
+	"validate.h"
+	"limit.h"
+
+1615908622 g:\1 курс\языки программировани€\lab9\validate.h
+	<cstdio>
+	<iostream>
+
+1616249561 source:g:\1 курс\языки программировани€\lab9\main.cpp
+	<any>
+	<iostream>
+	<vector>
+	<variant>
+	"limit.h"
+	"validate.h"
+	"menu_class.h"
+	"time_date_class.h"
+	"flight_class.h"
+	"print_class.h"
+
+1615908679 g:\1 курс\языки программировани€\lab9\limit.h
+
+1615912986 g:\1 курс\языки программировани€\lab9\menu_class.h
+	<iostream>
+	<variant>
+	<vector>
+	<string>
+	<cstdio>
+	"flight_class.h"
+
+1615908680 g:\1 курс\языки программировани€\lab9\time_date_class.h
+	<iostream>
+
+1615953517 g:\1 курс\языки программировани€\lab9\flight_class.h
+	<iostream>
+	<fstream>
+	<iomanip>
+	"time_date_class.h"
+
+1615616319 source:d:\1 курс\языки программировани€\lab9\validate.cpp
+	"validate.h"
+	"limit.h"
+
+1615908622 d:\1 курс\языки программировани€\lab9\validate.h
+	<cstdio>
+	<iostream>
+
+1615908679 d:\1 курс\языки программировани€\lab9\limit.h
+
+1616257143 source:d:\1 курс\языки программировани€\lab9\main.cpp
+	<any>
+	<iostream>
+	<vector>
+	<variant>
+	"limit.h"
+	"validate.h"
+	"menu_class.h"
+	"time_date_class.h"
+	"flight_class.h"
+	"print_class.h"
+
+1615912986 d:\1 курс\языки программировани€\lab9\menu_class.h
+	<iostream>
+	<variant>
+	<vector>
+	<string>
+	<cstdio>
+	"flight_class.h"
+
+1615908680 d:\1 курс\языки программировани€\lab9\time_date_class.h
+	<iostream>
+
+1616257284 d:\1 курс\языки программировани€\lab9\flight_class.h
+	<iostream>
+	<fstream>
+	<iomanip>
+	<cmath>
+	"time_date_class.h"
+
+1615913886 d:\1 курс\языки программировани€\lab9\print_class.h
+
+1615913886 g:\1 курс\языки программировани€\lab9\print_class.h
+
